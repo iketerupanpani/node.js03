@@ -1,0 +1,41 @@
+h1{
+    font-size: 60pt;
+    color: #eee;
+    text-align: right;
+    margin: 0px;
+}
+body{
+    font-size: 12pt;
+    color: #eee;
+    margin: 5px;
+    background-color: rgb(163, 134, 89);
+}
+p{
+    font-size: 14pt;
+    margin: 0px 20px;
+}
+h4{
+    font-size: 14pt;
+    color: #eee;
+    text-align: right;
+    margin: 0px;
+}
+table{
+    margin:20px;
+}
+table tr th{
+    background-color: #eee;
+    color:#666;
+    text-align: center;
+    padding: 3px 10px;
+}
+table tr td{
+    background-color: #eee;
+    color:#666;
+    text-align: left;
+    padding: 3px 10px;
+}
+a{
+    color:#eee;
+    text-decoration: none;
+}
